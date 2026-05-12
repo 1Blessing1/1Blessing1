@@ -6,7 +6,7 @@ I build software applications focused on AI, backend systems, full-stack develop
 
 🚀 About Me
 
-🎓 Software Engineering student
+🎓 Software Engineer
 💻 Focused on Python, backend development, AI systems, and full-stack applications
 🧠 Experienced in AI evaluation and prompt engineering through Outlier AI
 🔨 Building projects involving machine learning, web applications, automation, and desktop software
