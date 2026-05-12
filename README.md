@@ -17,7 +17,8 @@ About Me:
 📚 Currently improving my skills in scalable software architecture, APIs, and cloud deployment
 
 
-/n
+
+
 🛠️ Tech Stack
 
 Languages
