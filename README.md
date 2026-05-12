@@ -56,5 +56,6 @@ Develop advanced AI-powered software systems
 
 
 ⚡ Fun Fact
+
 I enjoy building software that combines AI, automation, and real-world usability while continuously learning modern software engineering technologies.
 
