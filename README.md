@@ -1,6 +1,6 @@
 Hi, I'm Blessing 👋
 
-Software Engineering Student | Python Developer | AI Systems Enthusiast
+Software Engineer | Python Developer | AI Systems Enthusiast
 
 I build software applications focused on AI, backend systems, full-stack development, and automation. I enjoy creating practical projects that combine problem-solving, machine learning, and modern software engineering practices.
 
@@ -17,7 +17,7 @@ About Me:
 📚 Currently improving my skills in scalable software architecture, APIs, and cloud deployment
 
 
-
+/n
 🛠️ Tech Stack
 
 Languages
