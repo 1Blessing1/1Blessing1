@@ -1,4 +1,4 @@
-````markdown
+```markdown
 <h1 align="center">Hi 👋, I'm Blessing Malema</h1>
 
 <h3 align="center">
@@ -19,6 +19,7 @@ Software Engineering Student • Python Developer • AI Systems Enthusiast
 - 🔨 Building projects involving machine learning, APIs, automation, and desktop software
 - 📚 Currently learning scalable backend architecture, cloud deployment, and DevOps
 - ⚡ Passionate about building practical software with real-world impact
+```
 
 ---
 
