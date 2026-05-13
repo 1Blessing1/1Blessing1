@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blessing Malema</h1>
 
 <h3 align="center">
-Software Engineering Student • Python Developer • AI Systems Enthusiast
+Software Engineering • Python Developer • AI Systems Enthusiast
 </h3>
 
 <p align="center">
