@@ -111,14 +111,6 @@ Python • PyQt6
 
 ---
 
-# 📊 GitHub Stats
-
----
-
-# 🏆 GitHub Achievements
-
----
-
 # ⚡ Fun Fact
 
 I enjoy building software that combines AI, automation, and real-world usability while continuously learning modern software engineering technologies.
