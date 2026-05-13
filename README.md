@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Blessing Malema</h1>
 
 <h3 align="center">
-Software Engineering • Python Developer • AI Systems Enthusiast
+Software Engineer • Python Developer • AI Systems Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Python+Developer;AI+Systems+Enthusiast;Backend+and+Full-Stack+Developer;Machine+Learning+Project+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+Developer;AI+Systems+Enthusiast;Backend+and+Full-Stack+Developer;Machine+Learning+Project+Builder" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 Software Engineering Student
+- 🎓 Software Engineer
 - 💻 Focused on Python, backend systems, AI engineering, and full-stack development
 - 🧠 AI Prompt Engineer and Evaluator at Outlier AI
 - 🔨 Building projects involving machine learning, APIs, automation, and desktop software
